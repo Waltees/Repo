@@ -1,9 +1,18 @@
 Packing List
 ____________
 -shoes
+coat
 -pants
 -hats
 -socks
 -drawers
 -belt
 -sunglasses
+Picnic
+_____________
+-Bread
+-Cheese
+-Wine
+-Jam
+-Crackers
+-Meats
