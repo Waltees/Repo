@@ -1,0 +1,9 @@
+Packing List
+____________
+-shoes
+-pants
+-hats
+-socks
+-drawers
+-belt
+-sunglasses
